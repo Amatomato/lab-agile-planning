@@ -1,2 +1,2 @@
 # lab-agile-planning
-This repository for the lab for agile planning (IBM Product Management)
+Repository for the lab for agile planning (IBM Product Management)
